@@ -1,0 +1,23 @@
+{
+  "name": "versionamento2",
+  "version": "0.0.1",
+  "description": "Teste de versionamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusLogrado/versionamento2.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Javascript"
+  ],
+  "author": "Mateus Queiroz Logrado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MateusLogrado/versionamento2/issues"
+  },
+  "homepage": "https://github.com/MateusLogrado/versionamento2#readme"
+}
